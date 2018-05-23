@@ -1,6 +1,6 @@
 
 public abstract class AbstractFactory {
-	//sssdddaaa
+	//ddd
 	public abstract Shape getShape(String shapeType);
 	public abstract Color getColor(String colorType);
 }
